@@ -3,6 +3,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:5f27cd&height=220&section=header&text=Vikas%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=600&color=00E7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;Real-Time+Systems+%7C+AI+Apps;I+Ship+Products+Not+Just+Projects)](https://git.io/typing-svg)
+
 ### 🧑‍💻 Full-Stack Developer | Backend • Real-Time Systems • AI Apps
 
 [![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
@@ -19,7 +22,7 @@
 
 - 🎓 B.Tech IT @ **IIIT Kota**
 - 🛠 Turning ideas into **real shipped products**
-- ⚡ Obsessed with real-time architecture & scalable backend systems
+- ⚡ Obsessed with **real-time architecture & scalable backend systems**
 - 🤖 Exploring **AI + Agentic workflows + microservices**
 
 > `Learn → Build → Break → Fix → Ship`
@@ -76,6 +79,16 @@
 <div align="center">
   
 ![snake gif](./snake.svg)
+
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+![Visitor Map](https://visitcount.itsvg.in/api?id=Vikaumar&label=Profile%20Views&color=12&icon=5&pretty=false)
 
 </div>
 
