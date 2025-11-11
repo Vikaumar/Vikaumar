@@ -19,24 +19,20 @@
 
 - 🎓 B.Tech IT @ **IIIT Kota**
 - 🛠 Turning ideas into **real shipped products**
-- ⚡ Obsessed with **real-time webapps, scalability, and AI automation**
-- 🧠 Learning by breaking → fixing → shipping.
+- ⚡ Obsessed with real-time architecture & scalable backend systems
+- 🤖 Exploring **AI + Agentic workflows + microservices**
 
-> `keep shipping > keep polishing`
+> `Learn → Build → Break → Fix → Ship`
 
 ---
 
-## 🔥 Featured Projects (with previews)
-
-> Add GIFs/screenshots in `assets/` folder (edura.gif, delicia.gif)
+## 🔥 Featured Projects
 
 | Project | Preview |
 |---------|--------|
 | **Edura — Gamified Learning Platform** <br> Multiplayer quizzes + AI-parent assistant + streak mechanics | <img src="./assets/edura.gif" width="330"/> |
 | **Delicia — Food Delivery System** <br> Live order tracking, payments, analytics dashboards | <img src="./assets/delicia.gif" width="330"/> |
 | **HeartStrokePredictor (ML)** <br> Predicts stroke risk using machine learning | <img src="./assets/heart.gif" width="330"/> |
-
-> If you want, I can also **generate GIFs from screen recordings** — tell me ✅
 
 ---
 
@@ -50,11 +46,6 @@
 
 </div>
 
-### 🔍 Currently exploring
-🔥 **LLM-based agent workflows**  
-⚡ **Microservices + event-driven architecture**  
-🔄 **Scalable real-time systems**  
-
 ---
 
 ## 🏆 Achievements
@@ -63,13 +54,13 @@
 - 💻 **400+ LeetCode problems**
 - 🟣 Codeforces **Pupil** | ⭐ CodeChef **3★**
 
-<p align="center">
+<div align="center">
 <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats (live animations)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake (auto updated)
+## 🐍 Contribution Snake (animated)
 
 <div align="center">
   
@@ -88,18 +79,16 @@
 
 </div>
 
-> If snake isn’t showing, let me know — we’ll set up the GitHub Action again.
-
 ---
 
-## 🤝 Let’s Build Together
+## 🤝 Let’s Build Something
 
-💬 Interested in collaborating on **Full-Stack + Real-time + AI**  
-📩 Message me on LinkedIn — I reply fast.
+💬 Open to collaboration on **Full-stack + Real-time + AI projects**  
+📩 Message me on LinkedIn
 
 <div align="center">
 
-> “Learn → Build → Break → Fix → Ship.”
+> ⭐ If you like my work, consider giving a star :)
 
 <br>
 
