@@ -1,98 +1,60 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/0Hh7c2q.png" width="100%" />
+<!-- banner -->
+<p align="center">
+  <img src="https://i.imgur.com/0Hh7c2q.png" alt="banner" style="max-width:100%;border-radius:8px"/>
+</p>
 
 <h1 align="center">🚀 Vikas Kumar</h1>
-<h3 align="center">Full-Stack • Real-Time Systems • AI Apps</h3>
+<p align="center">Full-Stack · Real-Time Systems · AI Apps</p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Vikaumar?label=Followers&style=social">
-  <img src="https://komarev.com/ghpvc/?username=Vikaumar&color=blueviolet">
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Sh*t-green">
+  <a href="https://github.com/Vikaumar"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social"></a>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Building%20Cool%20Sh%2A%2A-green">
 </div>
 
 ---
 
-### 🧠 Who am I?
+### 🧠 Who I am
+I build real products — from idea to deployment. I love real-time systems, scalable backends and cooking up AI-powered features.
 
-I’m a builder.
-
-I love taking crazy ideas → turning them into **working products** that people can actually use.
-
-From:
-- ⚡ Real-time **multiplayer learning platform**
-- 🍕 Live **food delivery + order tracking**
-- 🤖 AI assistants using **Gemini + OpenAI**
-
-Currently obsessed with:
-> **AI agents + scalable backends + realtime architecture**
+**Latest:** Edura (gamified learning) · Delicia (live food delivery)
 
 ---
 
-### ⚡ Latest Creations
+### 🐍 Contribution Snake
+> This SVG is generated automatically using a GitHub Action and shows my GitHub-contribution path in a playful snake form.
 
-| 🚀 Project | What it does |
-|-----------|---------------|
-| **Edura** | Gamified learning platform with real-time multiplayer quizzes + AI chatbot + streak mechanics |
-| **Delicia** | Swiggy-like platform with live order tracking, payments, dashboards, analytics |
-
-👉 Both built end-to-end: **UI → backend → deployment**  
-👉 If ShadCN + Spring Boot + WebSockets + Redis had a baby… that’s my stack.
+<p align="center">
+  <img src="./snake.svg" alt="contribution snake" width="75%"/>
+</p>
 
 ---
 
-### 🧩 Tech Arsenal (Battle Tested)
+### ✨ Project Preview Cards
 
-<div align="center">
+> Click a card to open the repo. Add GIFs/screenshots in `assets/` (see below).
 
-**Core Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python" />
+| Project | What | Preview |
+|---|---:|:---:|
+| [**Edura**](https://github.com/Vikaumar/Edura.LearningApp) | Gamified learning — multiplayer quizzes, AI parent-assistant | <a href="https://github.com/Vikaumar/Edura.LearningApp"><img src="./assets/edura.gif" alt="Edura preview" width="320"/></a> |
+| [**Delicia**](https://github.com/Vikaumar/Delicia) | Food-delivery with real-time order tracking & analytics | <a href="https://github.com/Vikaumar/Delicia"><img src="./assets/delicia.gif" alt="Delicia preview" width="320"/></a> |
+| [**HeartStrokePredictor**](https://github.com/Vikaumar/HeartStrokePredictor) | ML prototype for stroke prediction | <a href="https://github.com/Vikaumar/HeartStrokePredictor"><img src="./assets/heart.gif" alt="Heart preview" width="320"/></a> |
 
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,spring,replit,fastapi" />
-
-**Tools / Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,redis,git,github" />
-
-</div>
-
-> If it has a terminal and lets me break things — I’m in.
+> If an image is missing, the card will show a placeholder. Add GIFs to `assets/` named exactly as above.
 
 ---
 
-### 🏆 Achievements (Flex Zone 💪)
-
-- 🥇 **National Hackathon Winner — HackToCrack (Rank 1 / 6,400+ teams)**  
-- 💻 Solved **400+ LeetCode problems**, rating 1567  
-- 🟣 Codeforces **Pupil** | ⭐ CodeChef **3★**
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=contest)
-
-</div>
+### 🧰 Tech Stack (main)
+`TypeScript` · `JavaScript` · `Node.js` · `React` · `Spring Boot` · `MongoDB` · `PostgreSQL` · `Redis` · `Docker` · `AWS`
 
 ---
 
-### 📊 GitHub Grindset
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="165">
-
-<img src="https://streak-stats.demolab.com?user=Vikaumar&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+### 🏆 Highlights
+- 🥇 HackToCrack — National Champion (1 / 6,400+ teams)  
+- 💻 400+ LeetCode problems solved · Codeforces Pupil · CodeChef 3★
 
 ---
 
-### 📡 What I’m Doing Right Now
+### 📬 Let’s build
+Reach me on LinkedIn or open an issue/PR on any repo — collabs welcome 🚀
 
-```yaml
-status:
-  learning: "AI agents, scalability, microservices"
-  building: "Next project → something real-time + AI driven"
-  mode: "Keep shipping!"
+---
