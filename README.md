@@ -1,60 +1,108 @@
-<!-- banner -->
-<p align="center">
-  <img src="https://i.imgur.com/0Hh7c2q.png" alt="banner" style="max-width:100%;border-radius:8px"/>
-</p>
-
-<h1 align="center">🚀 Vikas Kumar</h1>
-<p align="center">Full-Stack · Real-Time Systems · AI Apps</p>
-
+<!-- HEADER -->
 <div align="center">
-  <a href="https://github.com/Vikaumar"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social"></a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Building%20Cool%20Sh%2A%2A-green">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:5f27cd&height=220&section=header&text=Vikas%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+### 🧑‍💻 Full-Stack Developer | Backend • Real-Time Systems • AI Apps
+
+[![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-ff9800)](#)
+
+✨ *I don’t just build projects — I build products.*
+
 </div>
 
 ---
 
-### 🧠 Who I am
-I build real products — from idea to deployment. I love real-time systems, scalable backends and cooking up AI-powered features.
+## 🚀 About Me
 
-**Latest:** Edura (gamified learning) · Delicia (live food delivery)
+- 🎓 B.Tech IT @ **IIIT Kota**
+- 🛠 Turning ideas into **real shipped products**
+- ⚡ Obsessed with **real-time webapps, scalability, and AI automation**
+- 🧠 Learning by breaking → fixing → shipping.
+
+> `keep shipping > keep polishing`
 
 ---
 
-### 🐍 Contribution Snake
-> This SVG is generated automatically using a GitHub Action and shows my GitHub-contribution path in a playful snake form.
+## 🔥 Featured Projects (with previews)
+
+> Add GIFs/screenshots in `assets/` folder (edura.gif, delicia.gif)
+
+| Project | Preview |
+|---------|--------|
+| **Edura — Gamified Learning Platform** <br> Multiplayer quizzes + AI-parent assistant + streak mechanics | <img src="./assets/edura.gif" width="330"/> |
+| **Delicia — Food Delivery System** <br> Live order tracking, payments, analytics dashboards | <img src="./assets/delicia.gif" width="330"/> |
+| **HeartStrokePredictor (ML)** <br> Predicts stroke risk using machine learning | <img src="./assets/heart.gif" width="330"/> |
+
+> If you want, I can also **generate GIFs from screen recordings** — tell me ✅
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Languages | Tools & Cloud | Databases |
+|----------|--------------|-----------|
+| <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" /> | <img src="https://skillicons.dev/icons?i=nodejs,react,spring,docker,aws,postman,git,github" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> |
+
+</div>
+
+### 🔍 Currently exploring
+🔥 **LLM-based agent workflows**  
+⚡ **Microservices + event-driven architecture**  
+🔄 **Scalable real-time systems**  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner — HackToCrack (Rank #1 / 6,400+ teams)**
+- 💻 **400+ LeetCode problems**
+- 🟣 Codeforces **Pupil** | ⭐ CodeChef **3★**
 
 <p align="center">
-  <img src="./snake.svg" alt="contribution snake" width="75%"/>
+<img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" />
 </p>
 
 ---
 
-### ✨ Project Preview Cards
+## 📊 GitHub Stats (live animations)
 
-> Click a card to open the repo. Add GIFs/screenshots in `assets/` (see below).
+<div align="center">
 
-| Project | What | Preview |
-|---|---:|:---:|
-| [**Edura**](https://github.com/Vikaumar/Edura.LearningApp) | Gamified learning — multiplayer quizzes, AI parent-assistant | <a href="https://github.com/Vikaumar/Edura.LearningApp"><img src="./assets/edura.gif" alt="Edura preview" width="320"/></a> |
-| [**Delicia**](https://github.com/Vikaumar/Delicia) | Food-delivery with real-time order tracking & analytics | <a href="https://github.com/Vikaumar/Delicia"><img src="./assets/delicia.gif" alt="Delicia preview" width="320"/></a> |
-| [**HeartStrokePredictor**](https://github.com/Vikaumar/HeartStrokePredictor) | ML prototype for stroke prediction | <a href="https://github.com/Vikaumar/HeartStrokePredictor"><img src="./assets/heart.gif" alt="Heart preview" width="320"/></a> |
+<img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-> If an image is missing, the card will show a placeholder. Add GIFs to `assets/` named exactly as above.
+</div>
 
 ---
 
-### 🧰 Tech Stack (main)
-`TypeScript` · `JavaScript` · `Node.js` · `React` · `Spring Boot` · `MongoDB` · `PostgreSQL` · `Redis` · `Docker` · `AWS`
+## 🐍 Contribution Snake (auto updated)
+
+<div align="center">
+  
+![snake gif](./snake.svg)
+
+</div>
+
+> If snake isn’t showing, let me know — we’ll set up the GitHub Action again.
 
 ---
 
-### 🏆 Highlights
-- 🥇 HackToCrack — National Champion (1 / 6,400+ teams)  
-- 💻 400+ LeetCode problems solved · Codeforces Pupil · CodeChef 3★
+## 🤝 Let’s Build Together
 
----
+💬 Interested in collaborating on **Full-Stack + Real-time + AI**  
+📩 Message me on LinkedIn — I reply fast.
 
-### 📬 Let’s build
-Reach me on LinkedIn or open an issue/PR on any repo — collabs welcome 🚀
+<div align="center">
 
----
+> “Learn → Build → Break → Fix → Ship.”
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5f27cd,100:ff6b6b&height=160&section=footer)
+
+</div>
