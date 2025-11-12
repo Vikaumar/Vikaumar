@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:5f27cd&height=220&section=header&text=Vikas%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=600&color=00E7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;Real-Time+Systems+%7C+AI+Apps;I+Ship+Products+Not+Just+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=600&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Real-Time+Systems+%7C+AI+Apps;I+Ship+Products+Not+Just+Projects)](https://git.io/typing-svg)
 
 ### 🧑‍💻 Full-Stack Developer | Backend • Real-Time Systems • AI Apps
 
@@ -32,7 +32,7 @@
 ## 🔥 Featured Projects
 
 | Project | Preview |
-|---------|--------|
+|---------|----------|
 | **Edura — Gamified Learning Platform** <br> Multiplayer quizzes + AI-parent assistant + streak mechanics | <img src="./assets/edura.gif" width="330"/> |
 | **Delicia — Food Delivery System** <br> Live order tracking, payments, analytics dashboards | <img src="./assets/delicia.gif" width="330"/> |
 | **HeartStrokePredictor (ML)** <br> Predicts stroke risk using machine learning | <img src="./assets/heart.gif" width="330"/> |
@@ -44,7 +44,7 @@
 <div align="center">
 
 | Languages | Tools & Cloud | Databases |
-|----------|--------------|-----------|
+|------------|---------------|-----------|
 | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" /> | <img src="https://skillicons.dev/icons?i=nodejs,react,spring,docker,aws,postman,git,github" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> |
 
 </div>
@@ -74,11 +74,32 @@
 
 ---
 
-## 🐍 Contribution Snake (animated)
+## 🏆 GitHub Trophy Cabinet
 
 <div align="center">
-  
-![snake gif](./snake.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaumar&theme=radical&margin-w=10&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏙️ GitHub Skyline (3D Animation)
+
+> A 3D city built from your contributions — explore it here:  
+👉 **[skyline.github.com/Vikaumar](https://skyline.github.com/Vikaumar)**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/3D%20Skyline-View%20My%20GitHub%20City-blue?style=for-the-badge" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Vikaumar/Vikaumar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -104,27 +125,6 @@
 > ⭐ If you like my work, consider giving a star :)
 
 <br>
----
-
-## 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaumar&theme=radical&margin-w=10&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🏙️ GitHub Skyline (3D Animation)
-
-> A 3D city built from your contributions — explore it here:
-
-👉 https://skyline.github.com/Vikaumar
-
-<div align="center">
-  <img src="https://img.shields.io/badge/3D%20Skyline-View%20My%20GitHub%20City-blue?style=for-the-badge" />
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5f27cd,100:ff6b6b&height=160&section=footer)
 
