@@ -101,14 +101,13 @@
 </div>
 
 ---
-
 ## 🌍 Visitor Map
-
 <div align="center">
 
-![Visitor Map](https://visitcount.itsvg.in/api?id=Vikaumar&label=Profile%20Views&color=12&icon=5&pretty=false)
+![Visitor Map](https://visitcount.itsvg.in/api?id=Vikaumar&icon=5&color=12&label=Visitors)
 
 </div>
+
 
 ---
 
