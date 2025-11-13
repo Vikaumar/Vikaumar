@@ -96,11 +96,8 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-
-![snake gif](https://github.com/Vikaumar/Vikaumar/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </div>
 
 ---
