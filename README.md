@@ -1,119 +1,124 @@
+<!-- HEADER SECTION -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff0066&height=250&section=header&text=Vikas%20Kumar%20%7C%20Code%20&%20Create&fontSize=50&fontColor=ffffff&animation=swing&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb86c,100:8e44ad&height=220&section=header&text=Vikas%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FF99&center=true&vCenter=true&width=700&lines=Building+Next-Gen+Products;Backend+%26+Real-Time+Systems+Enthusiast;AI+%2F+Agentic+Workflows;IIIT+Kota+%7C+Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=800&color=00fff9&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vikas+Kumar;Full-stack+Dev+by+Day%2C+Debugger+by+Night;Backend%2C+Real-Time+Systems+%7C+AI+Tinkerer;Turning+Coffee+into+Code+and+Projects+into+Products)](https://git.io/typing-svg)
 
-### 🚀 Full-Stack Developer | Backend Systems | AI Applications | IIIT Kota
+[![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-22a6b3?logo=space)](#)
 
-[![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow+Me!&style=social)](https://github.com/Vikaumar)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon%20%E2%9A%A1%EF%B8%8F-FF5733?style=for-the-badge)](#)
-
-✨ **Motto:** *I don't just build projects — I engineer market-ready products.*
+✨ *Building products, not just projects. Let's shape the future together!*
 
 </div>
 
 ---
 
-## 💡 Quick Overview
+## 🧑‍💻 Who Am I?
 
--   🎓 B.Tech IT at **IIIT Kota** (Building the Future!)
--   🔥 Passionate about architecting **scalable backend systems** and **real-time solutions** (think low-latency!)
--   🤖 Currently diving deep into **AI-powered agents** and **microservices architecture**.
--   🎯 I turn complex ideas into **minimal, robust, and delivered code**.
+- 🎓 3rd Year IT Undergrad @ **IIIT Kota**
+- 🚀 On a mission to turn caffeinated ideas into **real-world products**
+- 🛠️ Loves **speedrunning hackathons**, breaking things, & fixing them just in time
+- 🤖 Always geeking out on **AI, agentic workflows, & scalable microservices**
+- 📚 Night-owl, code-addict, meme-connoisseur
 
-> ```text
-> Iteration Cycle: Learn ➡️ Build ➡️ Break ➡️ Fix ➡️ Ship (Repeat!)
-> ```
-
----
-
-## 🔥 Project Spotlight
-
-| Project | Key Focus | Preview |
-|---------|----------|----------|
-| **Edura — Gamified Learning Platform** | 🏆 **Real-time** Multiplayer Quizzes, AI-Parent Helper, Habit Tracking. | <img src="./assets/edura.gif" width="300"/> |
-| **Delicia — High-Throughput Food Delivery** | 🗺️ Live Order Tracking, Secure Payments, Analytical Dashboards. | <img src="./assets/delicia.gif" width="300"/> |
-| **HeartStrokePredictor (ML)** | 🧠 Machine Learning Model for Stroke Risk Assessment (Deployed). | <img src="./assets/heart.gif" width="300"/> |
+> `Code. Debug. Ship. Meme. Repeat.`
 
 ---
 
-## 🛠 My Toolkit (Where the Magic Happens)
+## 💡 Featured Projects
+
+| Project                                         | Preview                                                           |
+|-------------------------------------------------|-------------------------------------------------------------------|
+| **Edura — Gamified Learning Platform**<br>Multiplayer Quizzes • AI Parent Assistant • Streaks | <img src="./assets/edura.gif" width="260"/> |
+| **Delicia — Food Delivery System**<br>Real-Time Orders • Payments • Analytics Dashboards     | <img src="./assets/delicia.gif" width="260"/> |
+| **HeartStrokePredictor**<br>ML-powered early stroke risk predictions                        | <img src="./assets/heart.gif" width="260"/> |
+
+*Check out more fun builds on my GitHub!*
+
+---
+
+## 🔧 Tech Stack
 
 <div align="center">
 
-| Area | Technologies |
-|------------|---------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&perline=5" /> |
-| **Frameworks/Runtime** | <img src="https://skillicons.dev/icons?i=nodejs,react,spring,nextjs&perline=4" /> |
-| **Database/Caching** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3" /> |
-| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman&perline=5" /> |
+| Languages | Frameworks & Tools         | Databases                |
+|-----------|---------------------------|--------------------------|
+| <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" /> | <img src="https://skillicons.dev/icons?i=nodejs,react,spring,docker,aws,postman,git,github,vercel" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> |
 
 </div>
 
 ---
 
-## 🏆 My Milestones & Code Cred
+## 🏆 Achievements
 
--   🥇 **HackToCrack Winner:** Secured **Rank #1** out of **6,400+ teams!**
--   💻 **400+ LeetCode Solved:** Constantly sharpening algorithmic skills.
--   🟣 Codeforces **Pupil** | ⭐ CodeChef **3★** (Competitive Programming grind is real!)
+- 🥇 **Winner — HackToCrack** (1st place out of 6,400+ teams)
+- 💡 **Shipped 6+ end-to-end products** before graduating
+- 💻 Cracked **400+ LeetCode puzzles**—still stuck on the last 12
+- 🟣 Codeforces **Pupil** • ⭐ CodeChef **3★**
+
+---
+
+## 📈 GitHub in Numbers
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=nord&font=Nova%20Square&ext=activity" />
+  <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-## 📈 GitHub Activity Hub
+## 🏅 GitHub Trophy Room
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="170"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Vikaumar&theme=onestar&margin-w=8&no-bg=true&row=1"/>
 </div>
 
 ---
 
-## 🥇 Trophy Shelf & Fun Visuals
+## 🏙️ My GitHub Skyline (3D) — It's Lit 🚦
+
+🗼 Explore my contribution city at  
+👉 [skyline.github.com/Vikaumar](https://skyline.github.com/Vikaumar)
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaumar&theme=flat&margin-w=10&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🌃 My 3D Contribution City: GitHub Skyline
-
-> Ever seen your code contributions as a city? Check out my 3D skyline!
-> 👉 **[skyline.github.com/Vikaumar](https://skyline.github.com/Vikaumar)**
-
-  <img src="https://img.shields.io/badge/3D%20Skyline-Explore%20My%20Code%20City-%23ff4d4d?style=for-the-badge&logo=city" />
-
-### 🐍 The Code Snake
-
-  <img src="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-
-### 🌍 Who's Dropped By?
-
-![Visitor Map](https://visitcount.itsvg.in/api?id=Vikaumar&icon=1&color=008080&label=You%20are%20Visitor%20Number)
-
+  <img src="https://img.shields.io/badge/3D%20Skyline-View%20My%20City-blue?style=for-the-badge" />
 </div>
 
 ---
 
-## 🤝 Let’s Connect & Build!
+## 🐍 The Snake Game of Commits
 
-Ready to collaborate on a challenging **Full-stack**, **Real-time**, or **AI** project? Let's turn concepts into reality!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</div>
 
-📩 Drop me a message on [LinkedIn](https://www.linkedin.com/in/vikas-kumar-536bb428a/) or shoot me an email!
+---
+
+## 🌎 Visitor Map
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Vikaumar&icon=5&color=12&label=Visitors"/>
+</div>
+
+---
+
+## 🤝 Let’s Build Together!
+
+- 🚧 Always open to collabs: **Full-Stack, AI, Real-Time Apps, or just cool ideas**
+- 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+- 🥤 Let's code, caffeinate, and conquer deadlines together
+- ⭐ Found something interesting? Drop a star—it's free motivation!
+
+---
 
 <div align="center">
 
-> 💡 **Liked the profile?** Show some support by giving a ⭐ star to my pinned repos!
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:00ccff&height=180&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ffb86c&height=160&section=footer"/>
 
 </div>
