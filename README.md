@@ -62,6 +62,14 @@ I am a **Full-Stack Engineer** focused on building robust, functional systems th
 
 ---
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
+
+</div>
+
 ## 📊 **GitHub Activity & Focus**
 
 <div align="center">
