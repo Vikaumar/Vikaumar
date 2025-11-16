@@ -43,11 +43,14 @@ I am a **Full-Stack Engineer** focused on building robust, functional systems th
 
 ## 💡 **Key Projects & Impact**
 
+I focus on building systems that solve real-world problems, from high-throughput backends to AI-powered predictive tools.
+
 | Project Name | Architectural Focus & Impact | Tech Stack Highlights |
-|---|---|
+| :--- | :--- | :--- |
 | **Edura — Gamified Learning Platform** | Built a **real-time competitive environment** using WebSockets for multiplayer quizzes. Designed the backend to manage state and scoring for thousands of concurrent users. | MERN Stack, **Socket.io**, Generative AI APIs, JWT Auth |
 | **Delicia — Real-Time Food Delivery System** | Engineered the infrastructure for **high-volume order processing** and **dynamic driver/customer tracking**. Leveraged **Redis** for efficient session management and minimizing database load. | Node.js/Express, **Redis**, MongoDB, **WebSockets**, Payment Gateways |
 | **HeartStrokePredictor** | Created a complete ML pipeline and API service to deliver **low-latency predictive health assessments**. Deployed using Docker for environment consistency. | Python, **Scikit-learn**, Flask, Docker, HTML/CSS |
+| **Snake Arcade Game** | Developed a classic arcade game with a clean, object-oriented design and modular codebase, focusing on robust game state management and rendering logic. | **JavaScript**, HTML Canvas, CSS |
 
 *Find detailed documentation and code repositories on my GitHub.*
 
@@ -62,18 +65,18 @@ I am a **Full-Stack Engineer** focused on building robust, functional systems th
 
 ---
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
-
-</div>
-
 ## 📊 **GitHub Activity & Focus**
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="180"/>
+</div>
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>
 
 <div align="center">
