@@ -50,7 +50,6 @@ I focus on building systems that solve real-world problems, from high-throughput
 | **Edura — Gamified Learning Platform** | Built a **real-time competitive environment** using WebSockets for multiplayer quizzes. Designed the backend to manage state and scoring for thousands of concurrent users. | MERN Stack, **Socket.io**, Generative AI APIs, JWT Auth |
 | **Delicia — Real-Time Food Delivery System** | Engineered the infrastructure for **high-volume order processing** and **dynamic driver/customer tracking**. Leveraged **Redis** for efficient session management and minimizing database load. | Node.js/Express, **Redis**, MongoDB, **WebSockets**, Payment Gateways |
 | **HeartStrokePredictor** | Created a complete ML pipeline and API service to deliver **low-latency predictive health assessments**. Deployed using Docker for environment consistency. | Python, **Scikit-learn**, Flask, Docker, HTML/CSS |
-| **Snake Arcade Game** | Developed a classic arcade game with a clean, object-oriented design and modular codebase, focusing on robust game state management and rendering logic. | **JavaScript**, HTML Canvas, CSS |
 
 *Find detailed documentation and code repositories on my GitHub.*
 
