@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1E90FF&height=220&section=header&text=VIKAS%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=220&section=header&text=VIKAS%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Montserrat"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=800&color=6C63FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Specializing+in+Real-Time+%26+Scalable+Systems;Driving+Product+Innovation+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2500&pause=1000&color=3498db&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Architecting+Scalable%2C+Real-Time+Applications;Solving+Problems+with+Data+Structures+%26+Code)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-2c3e50?logo=spacex&style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-7f8c8d?logo=code)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 **Professional Profile**
+## 👨‍💻 **Developer Focus**
 
-I am a results-driven **Full-Stack Software Developer** specializing in architecting and deploying **high-availability, real-time backend systems** and **scalable microservices**. My focus is on translating complex business logic into robust, efficient, and maintainable code, ensuring end-to-end product delivery.
+I am a **Full-Stack Engineer** focused on building robust, functional systems that deliver real user value. My expertise lies in designing and deploying **real-time backends** and **microservice architectures** capable of handling high load and ensuring data integrity.
 
 * 🎓 **Computer Science (IT)** Undergraduate | **IIIT Kota** (3rd Year)
-* ⚙️ Expertise in full development lifecycle, from system design to cloud deployment.
-* 🧠 Deep interest in integrating **AI/ML models** to enhance product functionality and drive automation.
-* 🤝 Seeking challenging opportunities in backend engineering and system architecture.
+* ⚙️ I manage the entire development cycle, from system design on the drawing board to final, tested deployment.
+* 🧠 Passionate about integrating **AI/ML workflows** to automate processes and unlock new product features.
+* 🤝 Open to collaborating on projects that involve complex scaling challenges and innovative technology stacks.
 
-> `Scalability. Efficiency. Deployment. Impact.`
+> **Design. Build. Measure. Scale.**
 
 ---
 
@@ -41,51 +41,51 @@ I am a results-driven **Full-Stack Software Developer** specializing in architec
 
 ---
 
-## 💡 **Selected Projects**
+## 💡 **Key Projects & Impact**
 
-| Project Name | Architecture & Value Proposition | Tech Stack Highlights |
+| Project Name | Architectural Focus & Impact | Tech Stack Highlights |
 |---|---|
-| **Edura — Gamified Learning Platform** | Designed and implemented a **real-time multiplayer quizzing engine** using WebSockets, significantly boosting user engagement. Integrated a **Generative AI** parent-assistant feature. | MERN Stack, **Socket.io**, Generative AI APIs, JWT Auth |
-| **Delicia — High-Throughput Food Delivery System** | Engineered a scalable backend for **real-time order processing and geolocation tracking**. Utilized caching (Redis) for session management and fast data retrieval, handling peak load effectively. | Node.js/Express, **Redis**, MongoDB, **WebSockets**, Payment Gateways |
-| **HeartStrokePredictor** | Built a full-stack predictive model for **early stroke risk assessment**. Developed RESTful APIs to serve the trained **Scikit-learn** model for low-latency predictions. | Python, **Scikit-learn**, Flask, Docker, HTML/CSS |
+| **Edura — Gamified Learning Platform** | Built a **real-time competitive environment** using WebSockets for multiplayer quizzes. Designed the backend to manage state and scoring for thousands of concurrent users. | MERN Stack, **Socket.io**, Generative AI APIs, JWT Auth |
+| **Delicia — Real-Time Food Delivery System** | Engineered the infrastructure for **high-volume order processing** and **dynamic driver/customer tracking**. Leveraged **Redis** for efficient session management and minimizing database load. | Node.js/Express, **Redis**, MongoDB, **WebSockets**, Payment Gateways |
+| **HeartStrokePredictor** | Created a complete ML pipeline and API service to deliver **low-latency predictive health assessments**. Deployed using Docker for environment consistency. | Python, **Scikit-learn**, Flask, Docker, HTML/CSS |
 
-*Detailed architectural diagrams and code repositories are available on my GitHub.*
-
----
-
-## 🏆 **Achievements & Technical Metrics**
-
-* 🥇 **HackToCrack Winner:** Secured 1st position (out of 6,400+ teams), validating rapid prototyping and cross-functional development skills under pressure.
-* 💻 **Production Experience:** Successfully deployed **6+ end-to-end applications**, managing the complete development lifecycle from requirement gathering to final CI/CD.
-* 🧠 **Data Structures & Algorithms (DSA):** Solved **400+ LeetCode problems** with a focus on problem-solving mastery.
-* ✨ **Competitive Programmer:** Codeforces **Pupil** | CodeChef **3★**.
+*Find detailed documentation and code repositories on my GitHub.*
 
 ---
 
-## 📊 **GitHub Activity & Learning Metrics**
+## 🏆 **Achievements & Competitive Profile**
+
+* 🥇 **HackToCrack Winner:** Took 1st place among 6,400+ teams, showcasing problem-solving and rapid delivery skills.
+* 💻 **Software Delivery:** Shipped **6+ end-to-end applications**, owning the product journey from concept to cloud.
+* 🧠 **DSA Mastery:** Solved **400+ LeetCode problems**, consistently improving algorithm design efficiency.
+* ✨ **Competitive Rating:** Codeforces **Pupil** | CodeChef **3★**.
+
+---
+
+## 📊 **GitHub Activity & Focus**
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=gotham&hide_border=true&title_color=6C63FF&icon_color=1E90FF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=gotham&hide_border=true&title_color=6C63FF&icon_color=1E90FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=vue&hide_border=true&title_color=3498db&icon_color=2ecc71" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=vue&hide_border=true&title_color=3498db&icon_color=2ecc71" height="160"/>
 </div>
 
 ---
 
 ## 🤝 **Let’s Connect**
 
-I am actively open to discussing opportunities in **Full-Stack Engineering, System Architecture, and AI-powered product development**.
+I am always interested in discussing new technologies, complex architectural challenges, and opportunities in **Full-Stack Engineering** and **AI integration**.
 
-* 📬 **LinkedIn:** The best way to reach me for professional and collaboration inquiries.
-* 📧 **GitHub:** Feel free to open an issue or drop a star on a project you find interesting!
+* 📬 **LinkedIn:** I respond quickly to professional inquiries here.
+* 📧 **GitHub:** Feel free to contribute or raise issues on any of my projects!
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6C63FF&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=160&section=footer"/>
 
 </div>
