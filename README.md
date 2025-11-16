@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=220&section=header&text=VIKAS%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Montserrat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a2592,100:6a0dad&height=220&section=header&text=VIKAS%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Bebas%20Neue"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2500&pause=1000&color=3498db&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Architecting+Scalable%2C+Real-Time+Applications;Solving+Problems+with+Data+Structures+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&duration=2500&pause=1000&color=4a2592&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Building+Scalable+Backends;Integrating+AI+for+High-Impact+Products)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Connect&style=social)](https://github.com/Vikaumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-3a1c71?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-d76d77?logo=code)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6a0dad?logo=code)](#)
 
 </div>
 
@@ -79,8 +79,8 @@ I focus on building systems that solve real-world problems, from high-throughput
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=buefy&hide_border=true&title_color=3a1c71&icon_color=d76d77" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=buefy&hide_border=true&title_color=3a1c71&icon_color=d76d77" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=dark&hide_border=true&title_color=6a0dad&icon_color=4a2592" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=dark&hide_border=true&title_color=6a0dad&icon_color=4a2592" height="160"/>
 </div>
 
 ---
@@ -96,6 +96,6 @@ I am always interested in discussing new technologies, complex architectural cha
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d76d77,100:3a1c71&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4a2592&height=160&section=footer"/>
 
 </div>
