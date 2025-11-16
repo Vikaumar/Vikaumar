@@ -1,98 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb86c,100:8e44ad&height=220&section=header&text=Vikas%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1E90FF&height=220&section=header&text=VIKAS%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=800&color=00fff9&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Vikas+Kumar;Full-stack+Software+Developer;Backend%2C+Real-Time+Systems+%7C+AI+and+Scalability;Building+Innovative+Products+with+Code)](https://git.io/typing-svg)
-
-[![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-22a6b3?logo=space)](#)
-
-✨ *Focusing on scalable architecture and delivering end-to-end product experiences.*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=800&color=6C63FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Specializing+in+Real-Time+%26+Scalable+Systems;Driving+Product+Innovation+with+Code)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🚀 About Me
-
-- 🎓 **IT Undergraduate** (3rd Year) from **IIIT Kota**.
-- 💡 **Full-Stack Developer** specializing in designing and implementing **real-time backend systems** and **microservices**.
-- 🛠️ Proficient in translating complex requirements into **robust, scalable, and efficient** technical solutions.
-- 🤖 Deeply interested in integrating **AI/ML workflows** to enhance product capabilities and automation.
-- 🤝 Actively seeking opportunities to collaborate on impactful and technically challenging projects.
-
-> `Architecture. Develop. Optimize. Deliver.`
-
----
-
-## 💡 Key Projects
-
-| Project | Key Features | Tech Stack Highlights |
-|---|---|---|
-| **Edura — Gamified Learning Platform** | Multiplayer Quizzes, AI Parent Assistant, Progress Tracking | MERN Stack, Socket.io, Generative AI |
-| **Delicia — Real-Time Food Delivery System** | Real-Time Order Processing, Integrated Payment Gateways, Analytics Dashboard | Node.js, Express, MongoDB, Redis, WebSockets |
-| **HeartStrokePredictor** | ML-powered early stroke risk assessment based on health metrics | Python, Scikit-learn, Flask, Containerization |
-
-*Detailed project documentation and repositories are available on my GitHub profile.*
-
----
-
-## 🔧 Technical Proficiencies
 
 <div align="center">
 
-| Area | Technologies |
-|:---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" /> |
-| **Frameworks & Tools** | <img src="https://skillicons.dev/icons?i=nodejs,react,spring,docker,aws,postman,git,github,vercel" /> |
-| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> |
+[![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Follow&style=social)](https://github.com/Vikaumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Launching%20Soon-2c3e50?logo=spacex&style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Metrics
+## 👨‍💻 **Professional Profile**
 
-* 🥇 **Winner — HackToCrack** (1st place out of 6,400+ participating teams, demonstrating strong problem-solving and rapid prototyping skills).
-* 💻 Developed and successfully shipped **6+ end-to-end applications**, taking projects from ideation to deployment.
-* 🧠 Solved **400+ LeetCode problems**, focusing on data structures and algorithms mastery.
-* ✨ Competitive Programming Rating: Codeforces **Pupil** • CodeChef **3★**.
+I am a results-driven **Full-Stack Software Developer** specializing in architecting and deploying **high-availability, real-time backend systems** and **scalable microservices**. My focus is on translating complex business logic into robust, efficient, and maintainable code, ensuring end-to-end product delivery.
+
+* 🎓 **Computer Science (IT)** Undergraduate | **IIIT Kota** (3rd Year)
+* ⚙️ Expertise in full development lifecycle, from system design to cloud deployment.
+* 🧠 Deep interest in integrating **AI/ML models** to enhance product functionality and drive automation.
+* 🤝 Seeking challenging opportunities in backend engineering and system architecture.
+
+> `Scalability. Efficiency. Deployment. Impact.`
 
 ---
 
-## 📈 GitHub Metrics
+## 🚀 **Core Technical Stack**
+
+| Category | Key Technologies |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&theme=dark" /> |
+| **Backend & Runtime** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs&theme=dark" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" /> |
+| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,vercel&theme=dark" /> |
+
+---
+
+## 💡 **Selected Projects**
+
+| Project Name | Architecture & Value Proposition | Tech Stack Highlights |
+|---|---|
+| **Edura — Gamified Learning Platform** | Designed and implemented a **real-time multiplayer quizzing engine** using WebSockets, significantly boosting user engagement. Integrated a **Generative AI** parent-assistant feature. | MERN Stack, **Socket.io**, Generative AI APIs, JWT Auth |
+| **Delicia — High-Throughput Food Delivery System** | Engineered a scalable backend for **real-time order processing and geolocation tracking**. Utilized caching (Redis) for session management and fast data retrieval, handling peak load effectively. | Node.js/Express, **Redis**, MongoDB, **WebSockets**, Payment Gateways |
+| **HeartStrokePredictor** | Built a full-stack predictive model for **early stroke risk assessment**. Developed RESTful APIs to serve the trained **Scikit-learn** model for low-latency predictions. | Python, **Scikit-learn**, Flask, Docker, HTML/CSS |
+
+*Detailed architectural diagrams and code repositories are available on my GitHub.*
+
+---
+
+## 🏆 **Achievements & Technical Metrics**
+
+* 🥇 **HackToCrack Winner:** Secured 1st position (out of 6,400+ teams), validating rapid prototyping and cross-functional development skills under pressure.
+* 💻 **Production Experience:** Successfully deployed **6+ end-to-end applications**, managing the complete development lifecycle from requirement gathering to final CI/CD.
+* 🧠 **Data Structures & Algorithms (DSA):** Solved **400+ LeetCode problems** with a focus on problem-solving mastery.
+* ✨ **Competitive Programmer:** Codeforces **Pupil** | CodeChef **3★**.
+
+---
+
+## 📊 **GitHub Activity & Learning Metrics**
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true&title_color=8e44ad&icon_color=ffb86c" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=gotham&hide_border=true&title_color=6C63FF&icon_color=1E90FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=gotham&hide_border=true&title_color=6C63FF&icon_color=1E90FF" height="160"/>
 </div>
 
 ---
 
-## 🏅 GitHub Recognition
+## 🤝 **Let’s Connect**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikaumar&theme=onestar&margin-w=8&no-bg=true&row=1"/>
-</div>
+I am actively open to discussing opportunities in **Full-Stack Engineering, System Architecture, and AI-powered product development**.
 
----
-
-## 🤝 Let’s Connect
-
-I am always interested in discussing new technologies, potential collaborations, and career opportunities, particularly in **Full-Stack Development, AI integration, and Scalable Backend Systems**.
-
-* 📬 **LinkedIn:** Reach out directly on [LinkedIn](https://www.linkedin.com/in/vikas-kumar-536bb428a/) for professional inquiries.
-* 📧 **GitHub:** Feel free to open an issue on a repository or drop a star if you find a project valuable!
+* 📬 **LinkedIn:** The best way to reach me for professional and collaboration inquiries.
+* 📧 **GitHub:** Feel free to open an issue or drop a star on a project you find interesting!
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ffb86c&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6C63FF&height=160&section=footer"/>
 
 </div>
