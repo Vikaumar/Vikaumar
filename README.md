@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=220&section=header&text=VIKAS%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Poppins"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=220&section=header&text=VIKAS%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Bebas%20Neue"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&duration=2500&pause=1000&color=d76d77&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Building+Scalable+Backends;Integrating+AI+for+High-Impact+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=d76d77&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Building+Scalable+Backends;Integrating+AI+for+High-Impact+Products)](https://git.io/typing-svg)
 
 </div>
 
