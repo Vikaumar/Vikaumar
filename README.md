@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=VIKAS%20KUMAR&fontSize=62&fontAlignY=38&color=gradient&customColorList=4A2592,6A0DAD,7A1BDC,B17CFF&fontColor=ffffff&animation=fadeIn&font=Bebas%20Neue"/>
 
 <!-- ✨ Modern Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2000&pause=800&color=6A0DAD&center=true&vCenter=true&width=650&lines=Full-Stack+Systems+Architect;Building+Scalable+Backends;AI-Driven+Product+Engineering;Real-Time+Systems+%26+Microservices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=29&duration=1900&pause=700&color=6A0DAD&center=true&vCenter=true&width=700&lines=Full-Stack+Systems+Architect;Building+Scalable+Backends;AI-Driven+Product+Engineering;Real-Time+Systems+%26+Microservices)](https://git.io/typing-svg)
+
 
 </div>
 
