@@ -65,7 +65,7 @@ I am a **Full-Stack Engineer** passionate about building **high-performance back
 
 ---
 
-# 🚀 **Highlighted Projects (Premium Cards)**
+# 🚀 **Highlighted Projects**
 
 <div align="center">
 
