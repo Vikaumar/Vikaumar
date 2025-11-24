@@ -35,7 +35,7 @@ I am a **Full-Stack Engineer** passionate about building **high-performance back
 > **Design. Build. Measure. Scale.**
 ---
 
-# 🛠️ **Tech Stack **
+# 🛠️ **Tech Stack**
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Languages-1f1f1f?style=for-the-badge&logoColor=white&color=4a2592">
