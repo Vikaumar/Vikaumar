@@ -141,7 +141,7 @@ I am a **Full-Stack Engineer** passionate about building **high-performance back
 
 <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="190"/>
 
-<!-- 🐍 Premium Snake Animation -->
+<!-- 🐍 Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake-dark.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg?sanitize=true">
