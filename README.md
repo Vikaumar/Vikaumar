@@ -135,7 +135,7 @@ I am a **Full-Stack Engineer** passionate about building **high-performance back
 
 ---
 
-# 📊 **GitHub Activity**
+# 📊 **Activity**
 
 <div align="center">
 
