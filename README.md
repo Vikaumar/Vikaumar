@@ -12,7 +12,6 @@
 
 </div>
 
-<!-- Social Badges -->
 <div align="center">
 
 [![GitHub Follow](https://img.shields.io/github/followers/Vikaumar?label=Connect&style=social)](https://github.com/Vikaumar)
