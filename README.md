@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=VIKAS%20KUMAR&fontSize=80&fontAlignY=35&color=gradient&customColorList=00d4aa,00a3ff,4A2592&fontColor=ffffff&animation=twinkling&font=Bebas%20Neue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=VIKAS%20KUMAR&fontSize=80&fontAlignY=35&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=twinkling&font=Bebas%20Neue"/>
 
-<h3>🚀 Full-Stack Developer | 🧠 600+ LeetCode | 🏆 HackToCrack Champion</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=5eead4&center=true&vCenter=true&multiline=false&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+%26+System+Design+%E2%9A%99%EF%B8%8F;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;600%2B+LeetCode+Problems+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/vikas-kumar-536bb428a/" target="_blank">
