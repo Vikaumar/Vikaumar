@@ -94,9 +94,9 @@ Hi there! I'm a passionate **Full-Stack Developer** and **B.Tech CSE student** a
 
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
