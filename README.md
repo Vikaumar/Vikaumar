@@ -1,106 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=VIKAS%20KUMAR&fontSize=70&fontAlignY=35&color=gradient&customColorList=00d4aa,00a3ff,4A2592&fontColor=ffffff&animation=fadeIn&font=Bebas%20Neue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=VIKAS%20KUMAR&fontSize=80&fontAlignY=35&color=gradient&customColorList=00d4aa,00a3ff,4A2592&fontColor=ffffff&animation=twinkling&font=Bebas%20Neue"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=24&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Matter;Competitive+Programmer;Always+Shipping)](https://git.io/typing-svg)
+<h3>🚀 Full-Stack Developer | 🧠 Problem Solver | 👨‍💻 Tech Lead</h3>
 
-<br/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/Vikaumar?label=Followers&style=for-the-badge&color=2ea44f)](https://github.com/Vikaumar)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikas-kumar-536bb428a/)
-[![Portfolio](https://img.shields.io/badge/View_My-Portfolio-00d4aa?logo=code&style=for-the-badge)](https://vikas-portfolio-lime.vercel.app/)
+<p align="center">
+  <a href="https://linkedin.com/in/vikas-kumar-536bb428a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vikas-portfolio-lime.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=code&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/Vikas_Kumar11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 👋 Hi, I'm Vikas
+## 👨‍💻 About Me
 
-I'm a B.Tech CSE student at IIIT Kota and a Full-Stack Developer. I enjoy solving complex algorithms and building clean, functional web applications. Whether it's designing a database schema, building an interactive frontend, or grinding algorithms on LeetCode, I love the process of creating software from scratch.
+Hi there! I'm a passionate **Full-Stack Developer** and **B.Tech CSE student** at IIIT Kota. I love building high-performance web applications and solving complex algorithmic challenges. 
 
-- 🎓 **Currently studying:** 3rd Year CSE at IIIT Kota
+- 🎓 **Education:** 3rd Year CSE at IIIT Kota
 - 💼 **Current Role:** Tech Lead at Paryawan Sakti
-- 🏆 **Hackathons:** National Champion at HackToCrack 2.0 (1st out of 6,400+ teams)
-- 🤝 **Let's collaborate on:** Full-stack web applications and scalable backends
+- 🏆 **Achievements:** National Champion at HackToCrack 2.0 (1st out of 6,400+ teams)
+- 🧠 **Problem Solving:** Solved **600+ problems** on LeetCode
+- 🤝 **Looking to Collaborate:** Open for Full-Stack, Backend, or Open Source projects
 
 ---
 
-### 💻 My Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
-  <br />
+  
+  <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&theme=dark" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring&theme=dark" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel&theme=dark" />
-  <br />
+  <br/><br/>
+  
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+  <br/><br/>
+  
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,redis,mysql&theme=dark" />
+  <br/><br/>
+  
+  <p><strong>Tools & Deployment</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,postman&theme=dark" />
+
 </div>
 
 ---
 
-### 🚀 What I've Built
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 Edura (Gamified Learning)**
-- Multiplayer quiz engine with WebSockets
-- AI-assisted content generation
-- Tech: MERN, Socket.io, Gemini API
-
-</td>
-<td width="50%" valign="top">
-
-**🍔 Delicia (Food Delivery)**
-- Real-time order processing and tracking
-- Live driver location updates
-- Tech: Node.js, Redis, MongoDB, Stripe
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📚 VidhyaSetu (Smart Education)**
-- AI-powered lesson generation
-- Automated attendance tracking
-- Tech: MERN, OpenAI, Python
-
-</td>
-<td width="50%" valign="top">
-
-**🔐 AuthX (Secure Auth)**
-- Role-based access control
-- Refresh token rotation
-- Tech: Node.js, PostgreSQL, Redis
-
-</td>
-</tr>
+<table bordercolor="#00d4aa">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Edura (Gamified Learning)</h3>
+      <p>A real-time multiplayer quiz engine with WebSockets and AI-assisted content generation.</p>
+      <b>Tech Stack:</b> MERN, Socket.io, Gemini API
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Delicia (Food Delivery)</h3>
+      <p>High-throughput real-time order processing platform with live driver location tracking.</p>
+      <b>Tech Stack:</b> Node.js, Redis, MongoDB, Stripe
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 VidhyaSetu (Smart Education)</h3>
+      <p>An AI-powered smart education platform with lesson generation and automated attendance.</p>
+      <b>Tech Stack:</b> MERN, OpenAI, Python
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 AuthX (Secure Auth)</h3>
+      <p>Enterprise-level secure authentication system with role-based access and refresh tokens.</p>
+      <b>Tech Stack:</b> Node.js, PostgreSQL, Redis
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📊 Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="190"/>
+
+  <img src="https://leetcard.jacoblin.cool/Vikas_Kumar11?theme=dark&font=Baloo%202&ext=activity" height="180" alt="LeetCode Stats"/>
 
   <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake-dark.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg?sanitize=true">
-    <img alt="snake" src="https://raw.githubusercontent.com/Vikaumar/Vikaumar/output/github-contribution-grid-snake.svg?sanitize=true"/>
-  </picture>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaumar&show_icons=true&theme=dark&hide_border=true&title_color=00d4aa&icon_color=00a3ff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=dark&hide_border=true&title_color=00d4aa" height="170"/>
 </div>
 
 ---
