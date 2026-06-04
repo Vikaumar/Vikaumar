@@ -36,7 +36,7 @@ I'm a **Full-Stack Developer** pursuing B.Tech CSE at **IIIT Kota**. I like buil
 <div align="center">
   
   <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,kotlin&theme=dark" />
   <br/><br/>
   
   <p><strong>Frontend</strong></p>
@@ -59,38 +59,48 @@ I'm a **Full-Stack Developer** pursuing B.Tech CSE at **IIIT Kota**. I like buil
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Vikaumar/rentverify">🛡️ RentVerify</a></h3>
+      <p>Automated guest verification system. Features an offline-first Compose Android client (Room, Retrofit, Hilt) and a Node.js/Express API with Firebase token authentication.</p>
+      <code>Android (Kotlin)</code> <code>Compose</code> <code>Node.js</code> <code>MySQL</code>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/Edura">🎮 Edura</a></h3>
       <p>Gamified learning platform with real-time multiplayer quizzes, AI content generation, and daily streak mechanics for kids.</p>
       <code>Spring Boot</code> <code>Socket.io</code> <code>Gemini API</code> <code>Chart.js</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/Delicia">🍔 Delicia</a></h3>
       <p>Food delivery app with real-time order tracking, live driver location updates, and Stripe payment integration.</p>
       <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Redis</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/VidhyaSetu">📚 VidhyaSetu</a></h3>
       <p>AI-powered smart education platform with automated lesson generation, attendance tracking, and student analytics.</p>
       <code>MERN</code> <code>OpenAI</code> <code>Python</code> <code>JWT</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/Prescripto">💊 Prescripto</a></h3>
       <p>Full-stack medical appointment booking platform with doctor dashboards and patient management.</p>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/AuthX">🔐 AuthX</a></h3>
       <p>Secure authentication system with JWT refresh tokens, role-based access, and brute-force protection.</p>
       <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>JWT</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vikaumar/GTA-VI-Landing">🎬 GTA VI Landing</a></h3>
       <p>Cinematic landing page clone with scroll-driven GSAP animations and immersive visual effects.</p>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GSAP</code>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty space for layout balance -->
     </td>
   </tr>
 </table>
