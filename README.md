@@ -117,7 +117,7 @@ I'm a **Full-Stack Developer** pursuing B.Tech CSE at **IIIT Kota**. I like buil
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vikaumar&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vikaumar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=1800" height="170" alt="Top Languages"/>
 
 </div>
 
